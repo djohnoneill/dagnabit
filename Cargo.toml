@@ -1,0 +1,6 @@
+[package]
+name = "dagnabit"
+version = "0.1.0"
+authors = ["Danyul <oneil399@morris.umn.edu>"]
+
+[dependencies]
